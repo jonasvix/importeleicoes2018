@@ -1,0 +1,1 @@
+﻿Local para arquivos tmp do tipo tsv.
