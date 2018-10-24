@@ -1,0 +1,16 @@
+{
+  "name": "importeleicoes2018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "mongoose": "^5.3.3",
+    "opn": "^5.4.0"
+  }
+}
