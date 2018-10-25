@@ -1,4 +1,0 @@
-Boletim de urna — Primeiro turno
-http://www.tse.jus.br/hotsites/pesquisas-eleitorais/resultados_anos/boletim_urna/2018/boletim_urna_1_turno.html
-
-Baixe os arquivos csv de todos os estados do site acima, e cole aqui dentro dessa pasta.

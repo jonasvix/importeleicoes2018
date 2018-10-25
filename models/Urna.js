@@ -46,8 +46,4 @@ var UrnaSchema = new Schema({
   nr_turma_apuradora: String
 });
 
-//UrnaSchema.index( { name: 'text', user: 'text' } );
-//UrnaSchema.index( { id: 1 } );
-//UrnaSchema.index( { relevance: 1, name: 1, user: 1 } );
-
 module.exports = mongoose.model('Urna', UrnaSchema);
